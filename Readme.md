@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple application for browsing, searching, and managing recipes.
+A simple application for Create, Delete, Update recipes.
 
 ## Features
 
@@ -24,7 +24,7 @@ A simple application for browsing, searching, and managing recipes.
 
 ## Backend Deploy LINK
 
-[Backend]()
+[Backend](https://recipes-app-task-10.onrender.com)
 
 ## License
 
