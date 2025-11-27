@@ -131,7 +131,7 @@ const DeleteRecipe = async (req, res) => {
         })
 
     } catch (error) {
-        res.staus(500).json({
+        res.status(500).json({
             message: "Intenal Server Error"
         })
     }
