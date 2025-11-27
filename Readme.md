@@ -28,4 +28,4 @@ A simple application for Create, Delete, Update recipes.
 
 ## License
 
-MSI
+MIT
